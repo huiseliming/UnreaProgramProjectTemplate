@@ -1,0 +1,16 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{371BC8B7-4C0B-6B40-AB6A-688655786439}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Showroom",
+			"Type": "Runtime",
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine"
+			]
+		}
+	]
+}
